@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { TrendItem, NewsItem } from '../types';
+import { TrendItem } from '../types';
 import { ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 
 interface Props {
